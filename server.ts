@@ -15,8 +15,13 @@ oscPort.open();
 
 wss.on("connection", async (ws: WebSocket) => {
   console.log("New client connected");
-  const presets = await readFile("./presets.json", "utf8");
-  ws.send(presets);
+  try {
+    const presets = await readFile("./presets.json", "utf8");
+    ws.send(presets);
+  } catch (error) {
+    console.log(`presets.json does not exist. Creating ...`);
+    await writeFile("./presets.json", JSON.stringify([], null, 2), "utf8");
+  }
 
   ws.on("message", async (signal: string) => {
     const { cmd, data } = JSON.parse(signal);
