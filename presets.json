@@ -1,0 +1,756 @@
+[
+  {
+    "id": "5f435cc9-8544-4df2-8de7-6ea76da8dc87",
+    "text": "",
+    "screens": [
+      "screen1",
+      "screen2",
+      "screen3",
+      "screen4",
+      "screen5"
+    ],
+    "transparentBg": false,
+    "flash": false
+  },
+  {
+    "id": "7ef360c3-5357-4db8-88dc-f5597a070fcb",
+    "text": "Testing",
+    "screens": [
+      "screen1"
+    ],
+    "transparentBg": false,
+    "flash": false,
+    "font": "texting",
+    "fontSize": 64
+  },
+  {
+    "id": "d2acee49-6daf-4ca6-b1ec-04f579596d14",
+    "text": "Testing",
+    "screens": [
+      "screen3"
+    ],
+    "flash": false,
+    "transparentBg": false
+  },
+  {
+    "id": "ede82ec7-1db3-4c76-967c-ee26f8046f25",
+    "text": "1",
+    "screens": [
+      "screen3"
+    ],
+    "flash": false,
+    "transparentBg": false
+  },
+  {
+    "id": "b1f51917-33da-4d9b-bc46-1a724f5d3d4e",
+    "text": "2",
+    "screens": [
+      "screen3"
+    ],
+    "transparentBg": false,
+    "flash": false
+  },
+  {
+    "id": "694e9986-e51a-4708-b7ff-2311797da79a",
+    "text": "3",
+    "screens": [
+      "screen3"
+    ],
+    "transparentBg": false
+  },
+  {
+    "id": "7d39dd7c-7493-4360-b0e7-cb66f17b3257",
+    "text": "Testing, testing",
+    "screens": [
+      "screen4"
+    ]
+  },
+  {
+    "id": "dbe41c34-42ad-4073-b91d-3de204b445a6",
+    "text": "Klar?",
+    "screens": [
+      "screen3"
+    ]
+  },
+  {
+    "id": "d0b80dd0-6f24-4bf8-9fa6-3fcac5427022",
+    "text": "Yes!",
+    "screens": [
+      "screen1"
+    ]
+  },
+  {
+    "id": "9dd837ee-5166-4d23-9c66-2879cd30ccfb",
+    "text": "Ja, klar!",
+    "screens": [
+      "screen4"
+    ],
+    "transparentBg": false
+  },
+  {
+    "id": "61542058-1355-4224-b4dc-28075f39d251",
+    "text": "",
+    "screens": [
+      "screen1",
+      "screen2",
+      "screen3",
+      "screen4",
+      "screen5"
+    ],
+    "transparentBg": false
+  },
+  {
+    "id": "17490c9f-284b-48ed-ae31-f0333216b2ad",
+    "text": "Velkommen",
+    "screens": [
+      "screen1"
+    ],
+    "transparentBg": false
+  },
+  {
+    "id": "a589fdcb-4c68-4ed0-a1ad-b3cbfce03b80",
+    "text": "Velkommen",
+    "screens": [
+      "screen3"
+    ],
+    "font": "texting"
+  },
+  {
+    "id": "32b1c038-64ad-4da5-8b79-3bf98e1a7ef2",
+    "text": "Hjertelig velkommen!",
+    "screens": [
+      "screen4"
+    ],
+    "font": "texting"
+  },
+  {
+    "id": "9a946929-7e28-445e-a277-e06b05eff45c",
+    "text": "Velkommen til Toppmøte",
+    "screens": [
+      "screen1"
+    ]
+  },
+  {
+    "id": "b6609bfd-a770-4693-85b6-20eed49352da",
+    "text": "i Utvalget for Lure Løsninger",
+    "screens": [
+      "screen1"
+    ]
+  },
+  {
+    "id": "b7f3083e-8e26-42a6-aad5-690e44fadc9f",
+    "text": "APPLAUS",
+    "screens": [
+      "screen1",
+      "screen3",
+      "screen4"
+    ],
+    "transparentBg": true,
+    "flash": true
+  },
+  {
+    "id": "e0fcd281-469a-46a2-8d5d-47cc30378bb3",
+    "text": "Tusen takk for at dere kom til dette veldig viktige møtet",
+    "screens": [
+      "screen1"
+    ]
+  },
+  {
+    "id": "5b9858d8-cc9c-4972-b4a6-c72cc287b5ae",
+    "text": "Alle her er veldig veldig viktige personer",
+    "screens": [
+      "screen1"
+    ]
+  },
+  {
+    "id": "843c483c-e270-4782-8134-33a33ca5b6a6",
+    "text": "Vi er viktige",
+    "screens": [
+      "screen1"
+    ]
+  },
+  {
+    "id": "797b6b44-8240-49df-bedb-fb5b1ef12f94",
+    "text": "Dere er viktige",
+    "screens": [
+      "screen1"
+    ]
+  },
+  {
+    "id": "8ff0cae6-1da4-42d3-a12f-c63fc905057a",
+    "text": "Og vi er, som dere vet, ",
+    "screens": [
+      "screen1"
+    ]
+  },
+  {
+    "id": "f7454343-d5c5-421b-af15-48420a77f49d",
+    "text": "samlet her i dag av en veldig viktig grunn",
+    "screens": [
+      "screen1"
+    ]
+  },
+  {
+    "id": "bd0a90f2-3e31-44bf-aacd-635a730a478e",
+    "text": "Veldig veldig viktig",
+    "screens": [
+      "screen4"
+    ]
+  },
+  {
+    "id": "1b047c84-1cea-465d-8bc3-153a49eb47e3",
+    "text": "Veldig viktig",
+    "screens": [
+      "screen3"
+    ]
+  },
+  {
+    "id": "28181814-9bfa-4a59-a2d5-597b6fa10592",
+    "text": "Vi menneskene har ødelagt jordkloden",
+    "screens": [
+      "screen1"
+    ]
+  },
+  {
+    "id": "174b64ce-5b2b-4d16-8b0b-d6881b763cb7",
+    "text": "Skikkelig",
+    "screens": [
+      "screen3"
+    ]
+  },
+  {
+    "id": "c5530a9b-fe8f-453d-a6a6-66e5da6bb999",
+    "text": "Sånn er det",
+    "screens": [
+      "screen1"
+    ]
+  },
+  {
+    "id": "6ae544ee-d21c-43e0-8ab3-e03021ae4984",
+    "text": "Veldig dumt",
+    "screens": [
+      "screen4"
+    ]
+  },
+  {
+    "id": "62af97fd-6fcb-4759-9bc0-5282f22aa4b2",
+    "text": "Veldig veldig dumt",
+    "screens": [
+      "screen3"
+    ]
+  },
+  {
+    "id": "bc1ab722-38e4-4271-b3c4-b37e24b5aff8",
+    "text": "Uffameg",
+    "screens": [
+      "screen1"
+    ]
+  },
+  {
+    "id": "80b350dc-b20b-46cd-b76d-d64a42f0a1c4",
+    "text": "Unnskyld",
+    "screens": [
+      "screen1"
+    ]
+  },
+  {
+    "id": "0fd8ca57-6dd8-4e6e-b0d8-351453c3e79b",
+    "text": "Vi har hatt mange, lange møter",
+    "screens": [
+      "screen1"
+    ]
+  },
+  {
+    "id": "7c022e52-293b-4de7-8610-a83abdb6bac4",
+    "text": "Vi har snakket og snakket",
+    "screens": [
+      "screen1"
+    ]
+  },
+  {
+    "id": "8dc290d7-325d-440c-81fa-6538a7ef95bc",
+    "text": "drukket kaffe",
+    "screens": [
+      "screen1"
+    ]
+  },
+  {
+    "id": "03ebe69f-65bf-47d0-aa3b-944d3e0156b0",
+    "text": "snakket og skrevet",
+    "screens": [
+      "screen1"
+    ]
+  },
+  {
+    "id": "45b92b96-1fb9-48a8-accf-4861595d5d8a",
+    "text": "... og snakket",
+    "screens": [
+      "screen1"
+    ]
+  },
+  {
+    "id": "5b219609-5a94-4270-b8ff-e2a43ab1ea1a",
+    "text": "Og diskutert",
+    "screens": [
+      "screen4"
+    ]
+  },
+  {
+    "id": "f842c1ab-940a-4d3b-86c7-9234dde42802",
+    "text": "Og argumentert",
+    "screens": [
+      "screen3"
+    ]
+  },
+  {
+    "id": "62979aa3-7bb2-41fc-8262-9b17581a6684",
+    "text": "og vi har klart det",
+    "screens": [
+      "screen4"
+    ]
+  },
+  {
+    "id": "83ef732b-882f-47c7-81db-fdc8d20f34a9",
+    "text": "Vi har klart det!",
+    "screens": [
+      "screen4"
+    ]
+  },
+  {
+    "id": "00804fb0-39c6-4501-99ef-d382e37e83eb",
+    "text": "Vi vil fortelle dere at… ",
+    "screens": [
+      "screen1"
+    ],
+    "flash": false
+  },
+  {
+    "id": "0a00fa0a-42b7-4085-a8f1-d4fd959e2046",
+    "text": "Tadaaaaa!",
+    "screens": [
+      "screen1",
+      "screen2",
+      "screen3",
+      "screen4",
+      "screen5"
+    ],
+    "flash": false,
+    "transparentBg": false,
+    "font": "texting"
+  },
+  {
+    "id": "36528c26-3f39-4213-9287-f03787439608",
+    "text": "",
+    "screens": [
+      "screen1",
+      "screen3",
+      "screen4",
+      "screen2",
+      "screen5"
+    ]
+  },
+  {
+    "id": "7baab336-9ebd-4a3d-9a86-7f839a9dffb4",
+    "text": "APPLAUS",
+    "screens": [
+      "screen1",
+      "screen3",
+      "screen4"
+    ],
+    "flash": true,
+    "transparentBg": true
+  },
+  {
+    "id": "71103cd9-f971-47dc-aca1-4699823b7ffc",
+    "text": "Og tusen takk til Kjetil, i salen her, for vår nye logo ➡️",
+    "screens": [
+      "screen1"
+    ]
+  },
+  {
+    "id": "ca8eb4ec-764d-4ad6-9a52-9ba478275ef7",
+    "text": "APPLAUS",
+    "screens": [
+      "screen1",
+      "screen3",
+      "screen4"
+    ],
+    "flash": true,
+    "transparentBg": true
+  },
+  {
+    "id": "0b755c7a-a790-4371-8113-9e14d30871e0",
+    "text": "«Hvordan klarte dere det!» spør dere kanskje?  ",
+    "screens": [
+      "screen1"
+    ]
+  },
+  {
+    "id": "f024f3ee-6726-441e-99ea-c0e7c1e08504",
+    "text": "Vi skal fortelle dere løsningen på dette viktige",
+    "screens": [
+      "screen1"
+    ]
+  },
+  {
+    "id": "45bdd3e3-2422-4ba0-8eec-b3fd5006f57d",
+    "text": "Viktige",
+    "screens": [
+      "screen4"
+    ]
+  },
+  {
+    "id": "a64ee8aa-2f96-42a1-8880-ad0402727c99",
+    "text": "Viktige problemet",
+    "screens": [
+      "screen1"
+    ]
+  },
+  {
+    "id": "8dfea192-afbc-4f3f-934d-d92a05179611",
+    "text": "Utfordringen",
+    "screens": [
+      "screen3"
+    ]
+  },
+  {
+    "id": "9007e264-5c1f-4d86-9c37-163816d0bcda",
+    "text": "Utfordringen vi må løse",
+    "screens": [
+      "screen1"
+    ]
+  },
+  {
+    "id": "d97b178c-3d44-48d5-b0f0-3f06483cc373",
+    "text": "Veldig viktig...",
+    "screens": [
+      "screen4"
+    ]
+  },
+  {
+    "id": "e4f33363-f036-4f4b-b08b-37d9dab70886",
+    "text": "Veldig, veldig viktig...",
+    "screens": [
+      "screen3"
+    ]
+  },
+  {
+    "id": "623f8e48-f07e-4c32-91e7-82cd1d20c503",
+    "text": "Vi har snakket sammen, diskutert...",
+    "screens": [
+      "screen1"
+    ]
+  },
+  {
+    "id": "04c028f5-e565-4621-b4c8-535b2c096975",
+    "text": "Reflektert...",
+    "screens": [
+      "screen3"
+    ]
+  },
+  {
+    "id": "22a3b45d-36b0-47fd-a319-88c89f1641dc",
+    "text": "Analysert...",
+    "screens": [
+      "screen4"
+    ]
+  },
+  {
+    "id": "ec380f19-9d44-40af-8adc-64a38cc9bd28",
+    "text": "Vi har funnet en løsning vi er helt enige om",
+    "screens": [
+      "screen1"
+    ]
+  },
+  {
+    "id": "9fe650d3-c46c-43e8-8356-0a5bb6e672d6",
+    "text": "Alle tre",
+    "screens": [
+      "screen1"
+    ]
+  },
+  {
+    "id": "d2a6d278-83af-4241-ba8d-fe289db0bb17",
+    "text": " ... alle tre",
+    "screens": [
+      "screen4"
+    ]
+  },
+  {
+    "id": "aaedc8de-cebd-45ca-b279-1775dedaf429",
+    "text": "... alle tre",
+    "screens": [
+      "screen3"
+    ]
+  },
+  {
+    "id": "cd0ba92e-cfd3-4e35-aaa3-c544c752a149",
+    "text": "en løsning som kommer til å forandre veldig mye... ",
+    "screens": [
+      "screen4"
+    ]
+  },
+  {
+    "id": "f3fe6352-051e-4fca-a53b-abf9f9f0e72d",
+    "text": " ... noen synes kanskje det virker farlig",
+    "screens": [
+      "screen3"
+    ]
+  },
+  {
+    "id": "33b18ca8-f007-4ed4-9471-28c353971ba8",
+    "text": " ... og utfordrende",
+    "screens": [
+      "screen1"
+    ]
+  },
+  {
+    "id": "e41b7676-76f4-4029-98d8-6598829f3fda",
+    "text": "noen vil til og med synes det er kjempegøy!",
+    "screens": [
+      "screen4"
+    ]
+  },
+  {
+    "id": "68ddf37a-08db-47aa-9d16-813c94ddaebf",
+    "text": "Ut og opp!",
+    "screens": [
+      "screen4"
+    ]
+  },
+  {
+    "id": "79e8e617-47c3-4d26-904a-2b423ec6247a",
+    "text": "Tjoho!",
+    "screens": [
+      "screen4"
+    ]
+  },
+  {
+    "id": "037dec24-814a-4135-a2f1-1c95139bf56d",
+    "text": "det har vært vanskelig",
+    "screens": [
+      "screen1"
+    ]
+  },
+  {
+    "id": "46dc3512-d834-4c39-b2b3-b7a9a48fd414",
+    "text": "vi har knadd og knadd ",
+    "screens": [
+      "screen3"
+    ]
+  },
+  {
+    "id": "a65d0a06-d2f3-47b6-a53c-17254a6d39e6",
+    "text": "og ledd og kosa oss!",
+    "screens": [
+      "screen4"
+    ]
+  },
+  {
+    "id": "00bcc6af-f9dc-4ad6-9c72-9e5dfe25aff0",
+    "text": "Og i dag kan vi altså endelig presentere løsningen!",
+    "screens": [
+      "screen1"
+    ]
+  },
+  {
+    "id": "e4e9afd9-e0b2-4505-a004-c1b14445c835",
+    "text": "Vi må nok bygge lenge",
+    "screens": [
+      "screen3"
+    ]
+  },
+  {
+    "id": "a3b171d9-6333-4d61-94cf-045e4f5a2f9e",
+    "text": "absolutt. Og vi har kjøpt inn masse Zalo...",
+    "screens": [
+      "screen4"
+    ]
+  },
+  {
+    "id": "a3551ba1-3f32-40af-9f33-44791118e12d",
+    "text": "og masse konvolutter og sprittusj...",
+    "screens": [
+      "screen1"
+    ]
+  },
+  {
+    "id": "8edfb49d-373f-4cc2-ac2c-d9514d4cdb37",
+    "text": "og fylt opp masse drivstoff til rakettene...",
+    "screens": [
+      "screen3"
+    ]
+  },
+  {
+    "id": "07fbeaf4-e341-4d46-a4a5-28d3e36ef4bc",
+    "text": "snurret sammen alle trådene til en liten ball...",
+    "screens": [
+      "screen1"
+    ]
+  },
+  {
+    "id": "0edd38fc-c24f-46a9-a616-3bbb9d67da4b",
+    "text": "og funnet beholdere til såpeboblene...",
+    "screens": [
+      "screen4"
+    ]
+  },
+  {
+    "id": "32a74c73-c6f4-47bb-ac1e-d5f757a5280c",
+    "text": "såpeboblene?",
+    "screens": [
+      "screen1"
+    ]
+  },
+  {
+    "id": "a08050e6-40b8-4fee-9fea-a77090fa6291",
+    "text": "hvem av dere tok med beholderen?",
+    "screens": [
+      "screen4"
+    ]
+  },
+  {
+    "id": "7d16f3ee-120f-412f-9d8c-0da040181c28",
+    "text": "mener du kjelen?",
+    "screens": [
+      "screen3"
+    ]
+  },
+  {
+    "id": "36d8d793-8c2e-4f28-9b85-ec4db99aef04",
+    "text": "beholderen …",
+    "screens": [
+      "screen4"
+    ]
+  },
+  {
+    "id": "0fa701a3-7dc8-4637-a902-6d108f80ce9d",
+    "text": "eeh…",
+    "screens": [
+      "screen3"
+    ]
+  },
+  {
+    "id": "bb2a4423-72b4-49a5-b436-306f0577f8b2",
+    "text": "altså…",
+    "screens": [
+      "screen3"
+    ]
+  },
+  {
+    "id": "afe0ff48-dd90-4c98-bec6-e27b874867e8",
+    "text": "jeg tok med presentasjonen …",
+    "screens": [
+      "screen3"
+    ]
+  },
+  {
+    "id": "30284748-fd40-490e-b848-f5acab2fef4e",
+    "text": "Bra! \nFå den opp",
+    "screens": [
+      "screen1"
+    ]
+  },
+  {
+    "id": "34b9a609-1c87-4605-9f1c-367cd2cfc43c",
+    "text": "Mine damer og herrer,",
+    "screens": [
+      "screen1"
+    ]
+  },
+  {
+    "id": "65624bb1-4993-482c-b249-812c2384313a",
+    "text": "ærede, viktige medlemmer av rådet,",
+    "screens": [
+      "screen1"
+    ]
+  },
+  {
+    "id": "983a41fa-55a5-461f-aaa0-52ed80d15383",
+    "text": " vi har den glede å presentere",
+    "screens": [
+      "screen1"
+    ]
+  },
+  {
+    "id": "ab0f7a3e-9e06-4991-b80b-186ca58c4744",
+    "text": "en revolusjon innen datateknikk",
+    "screens": [
+      "screen3"
+    ]
+  },
+  {
+    "id": "b3836fbd-aca8-46d9-9a73-9b061108ab01",
+    "text": "og ingeniørkunst",
+    "screens": [
+      "screen1"
+    ]
+  },
+  {
+    "id": "e48268c6-28af-467a-aeaf-8af154d95ce6",
+    "text": "ikke sant",
+    "screens": [
+      "screen4"
+    ]
+  },
+  {
+    "id": "8bc5ceaa-1730-4124-81bc-3ce03f028063",
+    "text": "Og veldig fint for de som jobber på bibliotekene",
+    "screens": [
+      "screen4"
+    ]
+  },
+  {
+    "id": "e1ede640-af2a-466c-aadf-039d65ad65a5",
+    "text": "Kan vi få opp presentasjonen?",
+    "screens": [
+      "screen1"
+    ]
+  },
+  {
+    "id": "3ab11b15-e7e1-4df3-acf2-8c7873a725ec",
+    "text": "Tadaaaa!",
+    "screens": [
+      "screen1",
+      "screen2",
+      "screen3",
+      "screen4",
+      "screen5"
+    ]
+  },
+  {
+    "id": "db5193f0-78ab-4e6d-9f98-cb0564d2a01c",
+    "text": "Løsningen er å….",
+    "screens": [
+      "screen1",
+      "screen2",
+      "screen3",
+      "screen4",
+      "screen5"
+    ]
+  },
+  {
+    "id": "80143555-ac98-43b4-a442-250cfe74f476",
+    "text": "",
+    "screens": [
+      "screen1",
+      "screen2",
+      "screen3",
+      "screen4",
+      "screen5"
+    ]
+  },
+  {
+    "id": "c165d4b1-9585-416f-afc0-e325e1ad3030",
+    "text": "APPLAUS",
+    "screens": [
+      "screen1",
+      "screen3",
+      "screen4"
+    ],
+    "flash": true,
+    "transparentBg": true,
+    "font": "texting",
+    "fontSize": 64
+  }
+]
