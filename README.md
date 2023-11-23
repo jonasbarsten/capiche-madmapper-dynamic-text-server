@@ -2,9 +2,15 @@
 
 Pipes messages coming in via WebSocket to OSC. Needed this small middleware to be able to save presets and to send OSC from a client.
 
+## Requirements:
+
+`nodejs`
+
 ## Installation:
 
-`npm install`
+`npm install -g ts-node`
+
+`npm install` in the project root
 
 ## Usage:
 
