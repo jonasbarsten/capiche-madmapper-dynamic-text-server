@@ -8,8 +8,8 @@ const wss = new WebSocket.Server({ port: 8085 });
 const oscPort = new osc.UDPPort({
   localAddress: "0.0.0.0",
   localPort: 8011,
-  remotePort: 8010,
-  remoteAddress: "127.0.0.1",
+  remotePort: 8010, // MadMapper
+  remoteAddress: "127.0.0.1", // MadMapper
 });
 oscPort.open();
 

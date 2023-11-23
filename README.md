@@ -25,3 +25,9 @@ MadMapper OSC destination port defaults to `8010`
 MadMapper OSC destination IP defaults to `127.0.0.1`
 
 All these may be changed in `server.ts`
+
+## TODO:
+
+Maybe use another osc library as the current one may crash on oncoming OSC messages that we do not use. https://www.npmjs.com/package/osc-js
+
+Just need to restart if it crashes
