@@ -1,15 +1,21 @@
-# Installation:
+# About:
+
+Pipes messages coming in via WebSocket to OSC. Needed this small middleware to be able to save presets and to send OSC from a client.
+
+## Installation:
 
 `npm install`
 
-# Usage:
+## Usage:
 
 `ts-node server.ts`
 
-# Config:
+## Config:
 
-MadMapper OSC destination port is default `8010`
+WebSocket server port defaults to `8085`
 
-MadMapper OSC destination IP is default `127.0.0.1`
+MadMapper OSC destination port defaults to `8010`
 
-This can be changed in `server.ts`
+MadMapper OSC destination IP defaults to `127.0.0.1`
+
+All these may be changed in `server.ts`
