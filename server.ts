@@ -15,9 +15,16 @@ oscPort.open();
 
 wss.on("connection", async (ws: WebSocket) => {
   console.log("New client connected");
+
+  oscPort.on("message", function (oscMsg) {
+    if (oscMsg.address !== "/capiche/text/action") return;
+    ws.send(JSON.stringify({ action: oscMsg.args[0] }));
+  });
+
   try {
     const presets = await readFile("./presets.json", "utf8");
-    ws.send(presets);
+    const data = JSON.stringify({ presets });
+    ws.send(data);
   } catch (error) {
     console.log(`presets.json does not exist. Creating ...`);
     await writeFile("./presets.json", JSON.stringify([], null, 2), "utf8");
